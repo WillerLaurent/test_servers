@@ -1,0 +1,13 @@
+#For web
+psycopg2-binary
+flask
+flask_socketio
+pillow
+gunicorn
+uWSGI
+
+#For populate
+faker
+unidecode
+numpy
+python-dateutil
